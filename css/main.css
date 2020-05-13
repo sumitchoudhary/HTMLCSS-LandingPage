@@ -26,3 +26,19 @@ section {
 .align-center{align-items: center}
 .center{justify-content: center}
 .space-between{justify-content: space-between}
+
+.btn{cursor: pointer;
+border: 0px;
+padding: 6px 12px;
+border-radius: 3px;
+line-height: 1.4}
+
+.btn-default{
+    color: white;
+    background-color: #faa541;
+}
+
+.btn-primary {
+    color: white;
+    background: #364147;
+}
