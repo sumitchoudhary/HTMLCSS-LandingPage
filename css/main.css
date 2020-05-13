@@ -35,3 +35,4 @@ line-height: 1.4}
 
 .btn-default{color: #ffffff; background-color: #faa541;}
 .btn-primary {color: #ffffff;background-color: #364147;}
+.form-control{display: block; padding: 6px 12px;line-height: 1.4;color:#8598a2 ; border: 1px solid #a0a0a0 }
