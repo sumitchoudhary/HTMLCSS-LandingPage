@@ -64,3 +64,19 @@ section {display: flex;}
     font-size: 21px;
     margin: 0 0 10px;
 }
+.banner {
+    margin: 55px 15px;
+    width: 100%;
+    border-top: 1px solid #a0a0a0;
+    border-bottom: 1px solid #a0a0a0;
+    padding: 25px 0;
+}
+.banner img { width: 250px; }
+.banner-text {
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: center;
+}
+.banner-text > div:last-child { font-size: 16px; font-weight: 400; margin-top: 5px; }
